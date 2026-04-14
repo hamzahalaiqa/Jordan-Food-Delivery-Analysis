@@ -53,4 +53,4 @@ Showcasing the heavy lifting done in **Power Query** and **Pivot Tables** to ens
 * **Strategic Recommendations:** Provided a clear breakdown of metrics to help management target specific service issues.
 
 ---
-**Contact:**(https://www.linkedin.com/in/hamza-halaiqa)
+**Contact:** (https://www.linkedin.com/in/hamza-halaiqa)
